@@ -26,7 +26,26 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Working the Issue
 - Resolution
 
-<h2>Lifecycle Stages</h2>
+<h2>Ticket Lifecycle Examples</h2>
+<h3>Ticket 1: Online Banking System Down</h3>
+
+- Sign in as a User Karen Tyrell on the osTicket Support Center site ans click "Open a New Ticket".
+  - Select the Help Topic as "Report a Problem"
+  - Fill in the "Issue Summary" formfield and a description in the textfield below it. (see image.)
+- Sign in as Agent John Smith to triage the ticket.
+  - Observe the following ticket properties:
+    - Priority, Department, SLA, Assigned To, and Help Topic
+  - Set the Properties of the ticket to:
+    - SLA Plan: Sev-A
+    - Help Topic: Report a Problem/Business Critical Outage
+    - Assigned To: Online Banking
+    - See the images for examples and note the reply thread as it updates.
+- Sign in as Agent Jane Doe to work the ticket to completion.
+  - Select the ticket and assign it to Jane Doe.
+  - See images for examples and note the threaded replies.
+  - Fill out the fields per the image examples and set the ticket to resolved.
+    - You can view resolved/closed tickets from the Closed dropdown under the Tickets Tab.
+
 
 
 <p>
