@@ -46,6 +46,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
     - Help Topic: Report a Problem/Business Critical Outage
     - Assigned To: Online Banking
     - See the images for examples and note the reply thread as it updates.
+      - Use Post Reply throughout the various steps to update actions taken while working tickets.
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
@@ -75,8 +76,8 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 - As Agent John Smith:
   - Observe and set the ticket properties.
-    - SLA Plan: Sev-B
-    - Assigned To: Support
+    - SLA Plan: Sev-C
+    - Assigned To: John Smith
   - Work the ticket to completion per the images.
 
 <p>
