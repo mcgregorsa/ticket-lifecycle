@@ -30,8 +30,8 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h3>Ticket 1: Online Banking System Down</h3>
 
 - Sign in as a User Karen Tyrell on the osTicket Support Center site ans click "Open a New Ticket".
-  - Select the Help Topic as "Report a Problem"
-  - Fill in the "Issue Summary" formfield and a description in the textfield below it. (see image.)
+  - Select the Help Topic as "Report a Problem".
+  - Fill in the "Issue Summary" formfield and a description in the textfield below it per the image.
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
@@ -41,6 +41,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
   - Observe the following ticket properties:
     - Priority, Department, SLA, Assigned To, and Help Topic
   - Set the Properties of the ticket to:
+    - Priority: Emergancy
     - SLA Plan: Sev-A
     - Help Topic: Report a Problem/Business Critical Outage
     - Assigned To: Online Banking
@@ -61,18 +62,45 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 </p>
 <br />
 
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+<h3>Ticket 2: Accounting Department Adobe Upgrade</h3>
+
+- Sign in as a User Karen Tyrell on the osTicket Support Center site ans click "Open a New Ticket".
+  - Select the Help Topic as "General Inquiry/Other".
+  - Fill in the "Issue Summary" formfield and a description in the textfield below it per the image.
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
+- As Agent John Smith:
+  - Observe and set the ticket properties.
+    - SLA Plan: Sev-B
+    - Assigned To: Support
+  - Work the ticket to completion per the images.
+
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+<br />
+
+<h3>Ticket 3: CFO's Laptop won't turn on</h3>
+
+- Sign in as a User Karen Tyrell on the osTicket Support Center site ans click "Open a New Ticket".
+  - Select the Help Topic as "Repot a Problem/Personal Computer Issues".
+  - Fill in the "Issue Summary" formfield and a description in the textfield below it per the image.
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
+- As Help Desk Agent John Smith:
+  - Observe and set the ticket properties.
+    - Priority: Emergency
+    - SLA Plan: Sev-B
+    - Assigned To: John Smith
+  - Work the ticket to completion per the images.
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
