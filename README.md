@@ -27,6 +27,9 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Resolution
 
 <h2>Ticket Lifecycle Examples</h2>
+
+<p>Note: Tickets are created in a variety of ways (phone, chat app, email, web portal). In the following examples only the osTicket web portal is being used.</p>
+
 <h3>Ticket 1: Online Banking System Down</h3>
 
 - Sign in as a User Karen Tyrell on the osTicket Support Center site ans click "Open a New Ticket".
@@ -47,6 +50,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
     - Assigned To: Online Banking
     - See the images for examples and note the reply thread as it updates.
       - Use Post Reply throughout the various steps to update actions taken while working tickets.
+        - When posting replies the user will receive an email copy that they can respond to.
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
