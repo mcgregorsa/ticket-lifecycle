@@ -37,7 +37,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
   - Fill in the "Issue Summary" formfield and a description in the textfield below it per the image.
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/d6f95e59-9fcb-43a0-a294-71c77ce96965" height="80%" width="80%" alt="Open New Ticket"/>
 </p>
 <br />
 
@@ -54,7 +54,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
         - When posting replies the user will receive an email copy that they can respond to.
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/73d01257-28e3-49fd-a477-764b1695ca47" height="80%" width="80%" alt="Agent John Triage Ticket"/>
 </p>
 <br />
 
@@ -65,7 +65,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
     - You can view resolved/closed tickets from the Closed dropdown under the Tickets Tab.
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/5ac69239-85a4-432a-906e-bda5a4681d9b" height="80%" width="80%" alt="Agent Jane Works Ticket"/>
 </p>
 <br />
 
