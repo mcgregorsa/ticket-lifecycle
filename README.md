@@ -1,4 +1,4 @@
-<p align="center">
+![agent-john-works-ticket](https://github.com/user-attachments/assets/c197cf80-29ca-4914-a4fe-f8c8c4e607a1)<p align="center">
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
@@ -76,7 +76,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
   - Fill in the "Issue Summary" formfield and a description in the textfield below it per the image.
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/ab160f41-caa9-4e4d-b030-9066891e5334" height="80%" width="80%" alt="Open New Ticket--Adobe Issue"/>
 </p>
 <br />
 
@@ -87,7 +87,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
   - Work the ticket to completion per the images.
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/85355512-6562-4812-a99e-a181847a93a6" height="80%" width="80%" alt="Agent John Works Adobe Ticket"/>
 </p>
 <br />
 
@@ -98,7 +98,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
   - Fill in the "Issue Summary" formfield and a description in the textfield below it per the image.
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/0076ba17-d03b-458e-95eb-db686f2e42b0" height="80%" width="80%" alt="Open CFO Ticket"/>
 </p>
 <br />
 
@@ -110,6 +110,6 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
   - Work the ticket to completion per the images.
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/82af046d-bfc0-4f84-ac8d-f06076edd374" height="80%" width="80%" alt="Agent John Works CFO Ticket"/>
 </p>
 <br />
