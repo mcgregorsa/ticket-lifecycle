@@ -1,4 +1,4 @@
-![agent-john-works-ticket](https://github.com/user-attachments/assets/c197cf80-29ca-4914-a4fe-f8c8c4e607a1)<p align="center">
+<p align="center">
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
